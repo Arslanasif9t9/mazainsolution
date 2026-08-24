@@ -1,0 +1,51 @@
+// Video testimonial cards — link out to the real video (YouTube/TikTok), matching the original design
+export const videoTestimonials = [
+  {
+    href: 'https://www.tiktok.com/@mazainsolution/video/7558485260967611666?is_from_webapp=1&sender_device=pc&web_id=7427555546470139399',
+    thumbnail: 'https://img.youtube.com/vi/9xwazD5SyVg/maxresdefault.jpg',
+    title: 'Tech Startup Success Story',
+    description: 'How we helped scale their platform to 100k+ users with our custom solutions',
+    rating: '5.0',
+    duration: '3:45',
+  },
+  {
+    href: 'https://www.youtube.com/watch?v=LXb3EKWsInQ',
+    thumbnail: 'https://img.youtube.com/vi/LXb3EKWsInQ/maxresdefault.jpg',
+    title: 'Enterprise Cloud Migration',
+    description: 'Seamless transition to AWS infrastructure with zero downtime',
+    rating: '4.9',
+    duration: '4:22',
+  },
+  {
+    href: 'https://www.youtube.com/watch?v=ygL_xcavzQY',
+    thumbnail: 'https://img.youtube.com/vi/ygL_xcavzQY/maxresdefault.jpg',
+    title: 'UX Design Transformation',
+    description: 'From concept to award-winning user experience that increased conversions',
+    rating: '5.0',
+    duration: '2:58',
+  },
+  {
+    href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    thumbnail: 'https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg',
+    title: 'Mobile App Launch Success',
+    description: 'From idea to 1M+ downloads in 6 months with our development expertise',
+    rating: '4.8',
+    duration: '5:15',
+  },
+  {
+    href: 'https://www.youtube.com/watch?v=jNQXAC9IVRw',
+    thumbnail: 'https://img.youtube.com/vi/jNQXAC9IVRw/maxresdefault.jpg',
+    title: 'E-commerce Platform Scaling',
+    description: 'Handling 10k+ daily transactions with our optimized architecture',
+    rating: '5.0',
+    duration: '6:30',
+  },
+  {
+    href: 'https://www.youtube.com/watch?v=FTQbiNvZqaY',
+    thumbnail: 'https://img.youtube.com/vi/FTQbiNvZqaY/maxresdefault.jpg',
+    title: 'Digital Transformation Journey',
+    description: 'Modernizing legacy systems for 300% growth and efficiency',
+    rating: '4.9',
+    duration: '7:12',
+  },
+];
